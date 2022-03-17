@@ -1,0 +1,100 @@
+﻿@model IEnumerable<Entity.Employee>
+
+@{
+    ViewBag.Title = "Index";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2>Employees List</h2>
+
+@Html.TextBox("search")
+<input type="submit" value="search" onclick="validate()" />
+<hr />
+<a href="/api/EmployeeAPI" target="_blank">API Listado</a> - 
+<a href="/api/EmployeeAPI?value=15" target="_blank">API ID</a>
+
+<div class="row">
+    <div id="man" class="col s12">
+        <div class="card material-table">
+            <div class="table-header">
+                <div class="actions">
+                    <a href="#" class="search-toggle waves-effect btn-flat nopadding"><i class="material-icons">search</i></a>
+                </div>
+            </div>
+            <table id="datatable">
+                <thead>
+                    <tr>
+                        <th>
+                            ID
+                        </th>
+                        <th>
+                            Profile Image
+                        </th>
+                        <th>
+                            Names
+                        </th>
+                        <th>
+                            Age
+                        </th>
+
+                        <th>
+                            Salary
+                        </th>
+                        <th>
+                            Anual Salary
+                        </th>
+                    </tr>
+                </thead>
+                <tbody></tbody>
+            </table>
+        </div>
+    </div>
+</div>
+
+
+@section scripts{
+    <script src="~/Scripts/Expressions.js"></script>
+    <script src="~/Scripts/Employees.js"></script>
+    <script>
+        function search(type) {
+            $('#datatable').DataTable().destroy();
+            var data;
+            var url = "@Url.Action("EmployeesList","Employee")";
+            if (type != "") {
+                url = "@Url.Action("Employee", "Employee")";
+            }
+            var data = { type: type};
+            $.post(url, data).done(function (response) {
+                console.log(response);
+                var data = [];
+                if (type != "") {
+                    if (response.error == false) {
+                        data.push([response.employeeId, '<img src="../images/' + response.profileImage + '" width="100" height="100">', response.employeeName, response.employeeAge, response.employeeSalary, response.employeeAnualSalary]);
+                    } else {
+                        if (response.errorMessage.includes('no contiene una definición para')) {
+                            document.getElementById("search").value = "";
+                            errorMessage("The Id: " + type + " doesn't exists");
+                        }
+                        else {
+                            errorMessage(response.errorMessage);
+                        }
+                    }
+                }
+                else {
+                    if (response.length != '0' && response[0].error == false) {
+                        for (var j = 0; j < response.length; j++) {
+                            data.push([response[j].employeeId, '<img src="../images/' + response[j].profileImage + '" width="100" height="100">', response[j].employeeName, response[j].employeeAge, response[j].employeeSalary, response[j].employeeAnualSalary]);
+                        }
+                    }
+                    else {
+                        errorMessage(response[0].errorMessage);
+                    }
+                }
+                $('#datatable').dataTable({
+                    bAutoWidth: true,
+                    data: data
+                });
+            });
+        }
+    </script>
+}
