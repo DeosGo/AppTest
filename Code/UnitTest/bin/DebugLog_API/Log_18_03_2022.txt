@@ -1,0 +1,14 @@
+[18/03/2022 8:53:24 p. m.]  API consumption started http://dummy.restapiexample.com/api/v1/employee/
+[18/03/2022 8:53:24 p. m.]  Successful Consumption http://dummy.restapiexample.com/api/v1/employee/
+[18/03/2022 8:53:26 p. m.]  API consumption started http://dummy.restapiexample.com/api/v1/employee/
+[18/03/2022 8:53:26 p. m.]  Successful Consumption http://dummy.restapiexample.com/api/v1/employee/
+[18/03/2022 8:53:27 p. m.]  error in consumption: Error en el servidor remoto: (429) Too Many Requests. http://dummy.restapiexample.com/api/v1/employee/
+[18/03/2022 8:53:33 p. m.]  API consumption started http://dummy.restapiexample.com/api/v1/employee/
+[18/03/2022 8:53:33 p. m.]  Successful Consumption http://dummy.restapiexample.com/api/v1/employee/
+[18/03/2022 8:53:35 p. m.]  API consumption started http://dummy.restapiexample.com/api/v1/employee/
+[18/03/2022 8:53:35 p. m.]  Successful Consumption http://dummy.restapiexample.com/api/v1/employee/
+[18/03/2022 8:53:35 p. m.]  error in consumption: Error en el servidor remoto: (429) Too Many Requests. http://dummy.restapiexample.com/api/v1/employee/
+[18/03/2022 8:53:38 p. m.]  API consumption started http://dummy.restapiexample.com/api/v1/employee/
+[18/03/2022 8:53:38 p. m.]  Successful Consumption http://dummy.restapiexample.com/api/v1/employee/
+[18/03/2022 8:53:39 p. m.]  API consumption started http://dummy.restapiexample.com/api/v1/employee/
+[18/03/2022 8:53:39 p. m.]  Successful Consumption http://dummy.restapiexample.com/api/v1/employee/

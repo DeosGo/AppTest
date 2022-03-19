@@ -27,3 +27,32 @@ C:\Users\dietocgo\Documents\Prueba\APIThales\UnitTest\obj\Debug\UnitTest.csproj.
 C:\Users\dietocgo\Documents\Prueba\APIThales\UnitTest\obj\Debug\UnitTest.csproj.CopyComplete
 C:\Users\dietocgo\Documents\Prueba\APIThales\UnitTest\obj\Debug\UnitTest.dll
 C:\Users\dietocgo\Documents\Prueba\APIThales\UnitTest\obj\Debug\UnitTest.pdb
+D:\DATOS KAREN\Documentos\GitHub\AppTest\Code\UnitTest\obj\Debug\UnitTest.csproj.AssemblyReference.cache
+D:\DATOS KAREN\Documentos\GitHub\AppTest\Code\UnitTest\obj\Debug\UnitTest.csproj.CoreCompileInputs.cache
+D:\DATOS KAREN\Documentos\GitHub\AppTest\Code\UnitTest\obj\Debug\UnitTest.dll
+D:\DATOS KAREN\Documentos\GitHub\AppTest\Code\UnitTest\obj\Debug\UnitTest.pdb
+D:\DATOS KAREN\Documentos\GitHub\AppTest\Code\UnitTest\bin\Debug\es\Microsoft.TestPlatform.AdapterUtilities.resources.dll
+D:\DATOS KAREN\Documentos\GitHub\AppTest\Code\UnitTest\bin\Debug\es\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\DATOS KAREN\Documentos\GitHub\AppTest\Code\UnitTest\bin\Debug\es\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.resources.dll
+D:\DATOS KAREN\Documentos\GitHub\AppTest\Code\UnitTest\bin\Debug\es\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.resources.dll
+D:\DATOS KAREN\Documentos\GitHub\AppTest\Code\UnitTest\bin\Debug\es\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\DATOS KAREN\Documentos\GitHub\AppTest\Code\UnitTest\bin\Debug\es\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+D:\DATOS KAREN\Documentos\GitHub\AppTest\Code\UnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+D:\DATOS KAREN\Documentos\GitHub\AppTest\Code\UnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+D:\DATOS KAREN\Documentos\GitHub\AppTest\Code\UnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+D:\DATOS KAREN\Documentos\GitHub\AppTest\Code\UnitTest\bin\Debug\Microsoft.TestPlatform.AdapterUtilities.dll
+D:\DATOS KAREN\Documentos\GitHub\AppTest\Code\UnitTest\bin\Debug\UnitTest.dll
+D:\DATOS KAREN\Documentos\GitHub\AppTest\Code\UnitTest\bin\Debug\UnitTest.pdb
+D:\DATOS KAREN\Documentos\GitHub\AppTest\Code\UnitTest\bin\Debug\Business.dll
+D:\DATOS KAREN\Documentos\GitHub\AppTest\Code\UnitTest\bin\Debug\Entity.dll
+D:\DATOS KAREN\Documentos\GitHub\AppTest\Code\UnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+D:\DATOS KAREN\Documentos\GitHub\AppTest\Code\UnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+D:\DATOS KAREN\Documentos\GitHub\AppTest\Code\UnitTest\bin\Debug\DataAccess.dll
+D:\DATOS KAREN\Documentos\GitHub\AppTest\Code\UnitTest\bin\Debug\Newtonsoft.Json.dll
+D:\DATOS KAREN\Documentos\GitHub\AppTest\Code\UnitTest\bin\Debug\Business.pdb
+D:\DATOS KAREN\Documentos\GitHub\AppTest\Code\UnitTest\bin\Debug\Entity.pdb
+D:\DATOS KAREN\Documentos\GitHub\AppTest\Code\UnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+D:\DATOS KAREN\Documentos\GitHub\AppTest\Code\UnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+D:\DATOS KAREN\Documentos\GitHub\AppTest\Code\UnitTest\bin\Debug\DataAccess.pdb
+D:\DATOS KAREN\Documentos\GitHub\AppTest\Code\UnitTest\bin\Debug\Newtonsoft.Json.xml
+D:\DATOS KAREN\Documentos\GitHub\AppTest\Code\UnitTest\obj\Debug\UnitTest.csproj.CopyComplete

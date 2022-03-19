@@ -1,0 +1,13 @@
+D:\DATOS KAREN\Documentos\GitHub\AppTest\Code\Business\bin\Debug\Business.dll
+D:\DATOS KAREN\Documentos\GitHub\AppTest\Code\Business\bin\Debug\Business.pdb
+D:\DATOS KAREN\Documentos\GitHub\AppTest\Code\Business\bin\Debug\DataAccess.dll
+D:\DATOS KAREN\Documentos\GitHub\AppTest\Code\Business\bin\Debug\Entity.dll
+D:\DATOS KAREN\Documentos\GitHub\AppTest\Code\Business\bin\Debug\Newtonsoft.Json.dll
+D:\DATOS KAREN\Documentos\GitHub\AppTest\Code\Business\bin\Debug\DataAccess.pdb
+D:\DATOS KAREN\Documentos\GitHub\AppTest\Code\Business\bin\Debug\Entity.pdb
+D:\DATOS KAREN\Documentos\GitHub\AppTest\Code\Business\bin\Debug\Newtonsoft.Json.xml
+D:\DATOS KAREN\Documentos\GitHub\AppTest\Code\Business\obj\Debug\Business.csproj.AssemblyReference.cache
+D:\DATOS KAREN\Documentos\GitHub\AppTest\Code\Business\obj\Debug\Business.csproj.CoreCompileInputs.cache
+D:\DATOS KAREN\Documentos\GitHub\AppTest\Code\Business\obj\Debug\Business.csproj.CopyComplete
+D:\DATOS KAREN\Documentos\GitHub\AppTest\Code\Business\obj\Debug\Business.dll
+D:\DATOS KAREN\Documentos\GitHub\AppTest\Code\Business\obj\Debug\Business.pdb

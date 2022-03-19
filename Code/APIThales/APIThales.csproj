@@ -258,12 +258,12 @@
     <Content Include="Scripts\jquery-3.6.0.min.map" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\..\ThalesApp\Business\Business.csproj">
-      <Project>{d574108e-cdf9-4612-be22-f08a20151de5}</Project>
+    <ProjectReference Include="..\Business\Business.csproj">
+      <Project>{746dd158-a74f-431c-bca8-a7f921d0e0e5}</Project>
       <Name>Business</Name>
     </ProjectReference>
-    <ProjectReference Include="..\..\ThalesApp\Entity\Entity.csproj">
-      <Project>{ffc6667f-4a02-404e-9a95-37df2f3f261b}</Project>
+    <ProjectReference Include="..\Entity\Entity.csproj">
+      <Project>{de72b6c6-9a32-4f57-859e-2abc616b7a9a}</Project>
       <Name>Entity</Name>
     </ProjectReference>
   </ItemGroup>

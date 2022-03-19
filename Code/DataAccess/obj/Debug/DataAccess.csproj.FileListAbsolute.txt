@@ -1,0 +1,11 @@
+D:\DATOS KAREN\Documentos\GitHub\AppTest\Code\DataAccess\bin\Debug\DataAccess.dll
+D:\DATOS KAREN\Documentos\GitHub\AppTest\Code\DataAccess\bin\Debug\DataAccess.pdb
+D:\DATOS KAREN\Documentos\GitHub\AppTest\Code\DataAccess\bin\Debug\Entity.dll
+D:\DATOS KAREN\Documentos\GitHub\AppTest\Code\DataAccess\bin\Debug\Newtonsoft.Json.dll
+D:\DATOS KAREN\Documentos\GitHub\AppTest\Code\DataAccess\bin\Debug\Entity.pdb
+D:\DATOS KAREN\Documentos\GitHub\AppTest\Code\DataAccess\bin\Debug\Newtonsoft.Json.xml
+D:\DATOS KAREN\Documentos\GitHub\AppTest\Code\DataAccess\obj\Debug\DataAccess.csproj.AssemblyReference.cache
+D:\DATOS KAREN\Documentos\GitHub\AppTest\Code\DataAccess\obj\Debug\DataAccess.csproj.CoreCompileInputs.cache
+D:\DATOS KAREN\Documentos\GitHub\AppTest\Code\DataAccess\obj\Debug\DataAccess.csproj.CopyComplete
+D:\DATOS KAREN\Documentos\GitHub\AppTest\Code\DataAccess\obj\Debug\DataAccess.dll
+D:\DATOS KAREN\Documentos\GitHub\AppTest\Code\DataAccess\obj\Debug\DataAccess.pdb

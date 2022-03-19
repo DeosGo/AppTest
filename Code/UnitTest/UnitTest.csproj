@@ -56,12 +56,12 @@
     <None Include="packages.config" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\..\ThalesApp\Business\Business.csproj">
-      <Project>{d574108e-cdf9-4612-be22-f08a20151de5}</Project>
+    <ProjectReference Include="..\Business\Business.csproj">
+      <Project>{746dd158-a74f-431c-bca8-a7f921d0e0e5}</Project>
       <Name>Business</Name>
     </ProjectReference>
-    <ProjectReference Include="..\..\ThalesApp\Entity\Entity.csproj">
-      <Project>{FFC6667F-4A02-404E-9A95-37DF2F3F261B}</Project>
+    <ProjectReference Include="..\Entity\Entity.csproj">
+      <Project>{de72b6c6-9a32-4f57-859e-2abc616b7a9a}</Project>
       <Name>Entity</Name>
     </ProjectReference>
   </ItemGroup>

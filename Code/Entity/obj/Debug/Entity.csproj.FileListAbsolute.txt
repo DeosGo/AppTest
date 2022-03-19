@@ -1,0 +1,6 @@
+D:\DATOS KAREN\Documentos\GitHub\AppTest\Code\Entity\bin\Debug\Entity.dll
+D:\DATOS KAREN\Documentos\GitHub\AppTest\Code\Entity\bin\Debug\Entity.pdb
+D:\DATOS KAREN\Documentos\GitHub\AppTest\Code\Entity\obj\Debug\Entity.csproj.AssemblyReference.cache
+D:\DATOS KAREN\Documentos\GitHub\AppTest\Code\Entity\obj\Debug\Entity.csproj.CoreCompileInputs.cache
+D:\DATOS KAREN\Documentos\GitHub\AppTest\Code\Entity\obj\Debug\Entity.dll
+D:\DATOS KAREN\Documentos\GitHub\AppTest\Code\Entity\obj\Debug\Entity.pdb
